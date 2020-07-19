@@ -1,1 +1,2 @@
-# Filters-CSS3
+Basic example of how CSS3 filter properties work.
+
