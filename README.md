@@ -19,6 +19,7 @@ Na página inicial do projeto, é necessário clicar no botão verde (CODE) e, c
 
 
 Por conseguinte, após copiar a URL, será criada uma nova pasta em qualquer local do seu computador (pode ser na área de trabalho) com qualquer nome:
+
 ![image](https://user-images.githubusercontent.com/45500959/111053044-55aae000-843f-11eb-9773-5664e90ffa14.png)
 
 
@@ -31,7 +32,7 @@ Depois disso, você irá clicar com o botão direito em sua pasta recém-criada,
 
 Ao abrir o terminal, é necessário digitar a URL recém-copiada do GitHub, acompanhada do comando git clone, conforme exemplo: 
 
-
+![image](https://user-images.githubusercontent.com/45500959/111053147-0f09b580-8440-11eb-819d-7c80cedeaa4e.png)
 
 Após isso, teclar ENTER.
 
